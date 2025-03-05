@@ -1,7 +1,7 @@
 ## Yuki Yotsumoto  
 👋 **Hi, I’m @YukiYotsu. I am an engineer and a university student who loves penguins🐧.**  
 🏫 **Doshisha Univ** 🇯🇵 | **UH** 🇫🇮  
-🎈 **Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 in 2025<br>
+🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 in 2025<br>
 
 
 ### Tobitate Young Ambassador Program  
