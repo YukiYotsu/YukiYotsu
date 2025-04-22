@@ -19,10 +19,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ### Tobitate! Study Abroad Initiative Program
-Young Ambassador Program  
+Japanese Youth Ambassador Program  
 <img src="https://github.com/user-attachments/assets/cadc84c4-10e7-4ab6-98a8-248f21504f86" width="244px">　  
 
-I am a member of the 16th [*Tobitate! Young Ambassador Program*](https://tobitate-mext.jasso.go.jp/about/english.html) from Japan.  
+I am a member of the 16th [*Tobitate! Youth Ambassador Program*](https://tobitate-mext.jasso.go.jp/about/english.html) from Japan.  
 
 - 🌱 I’m currently learning AI and education at **University of Helsinki** 🇫🇮.
 - ⭐️ Star the project on my [GitHub](https://github.com/YukiYotsu/UHAILab).
@@ -30,7 +30,7 @@ I am a member of the 16th [*Tobitate! Young Ambassador Program*](https://tobitat
 
 > **四元　祐貴(日本語版)**  
 > ペンギンをこよなく愛するエンジニアです。  
-> - トビタテ！第16期　日本代表プログラム  
+> - トビタテ！第16期　新・日本代表プログラム  
 > - 同志社大学　理工学部 // ヘルシンキ大学　理学部　コンピュータサイエンス学科  
 
 ### Links
