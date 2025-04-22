@@ -1,5 +1,5 @@
 ## Yuki Yotsumoto  
-👋 **Hi, I’m @YukiYotsu. I am an engineer and a university student who loves penguins🐧.**  
+👋 **Hi, I’m @YukiYotsu. I major in computer science (CS), especially natural langiuage processing and artificial intelligence (AI). I am an engineer and a university student.** 
 🏫 **Doshisha Univ** 🇯🇵 | **UH** 🇫🇮  
 🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 <br>
 
@@ -17,14 +17,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-### Tobitate Young Ambassador Program  
+### Tobitate! Study Abroad Initiative Program
+Young Ambassador Program  
 <img src="https://github.com/user-attachments/assets/cadc84c4-10e7-4ab6-98a8-248f21504f86" width="244px">　  
 
 I am a member of the 16th [*Tobitate! Young Ambassador Program*](https://tobitate-mext.jasso.go.jp/about/english.html) from Japan.  
 
-- 💞 I’m interested in how penguins are flying.
 - 🌱 I’m currently learning AI and education at **University of Helsinki** 🇫🇮.
-- ⭐️ Star the project on my [GitHub](https://github.com/YukiYotsu/UHAILab).  
+- ⭐️ Star the project on my [GitHub](https://github.com/YukiYotsu/UHAILab).
+- 💞 I love penguins. 
 
 > **四元　祐貴(日本語版)**  
 > ペンギンをこよなく愛するエンジニアです。  
