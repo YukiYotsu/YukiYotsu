@@ -41,7 +41,7 @@ I am a member of the 16th [*Tobitate! Young Ambassador Program*](https://tobitat
 - **note** 📔: [issho_penta](https://note.com/issho_penta)
 - **Instagram** 📸: [yuki.yotsu](https://www.instagram.com/yuki.yotsu)  
   The Instagram link above is for personal use. For public, follow [42penta](https://www.instagram.com/42penta)!
-- E-mail 📩: cguh1116@mail.doshisha.ac.jp
+- E-mail 📩: eq8definition@gmail.com  
 
 ---
 Buy me a coffee! It will give me wings.  
