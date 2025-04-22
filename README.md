@@ -1,5 +1,5 @@
 ## Yuki Yotsumoto  
-👋 Hi, I’m @YukiYotsu. 
+👋 Hi, I’m @YukiYotsu.  
 **Major in computer science (CS), especially natural langiuage processing and artificial intelligence (AI). I am an engineer and a university student.** 
 🏫 **Doshisha Univ** 🇯🇵 | **UH** 🇫🇮  
 🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 <br>
