@@ -1,6 +1,6 @@
 ## Yuki Yotsumoto  
 👋 Hi, I’m @YukiYotsu.  
-💻 **Major in computer science (CS)**, especially natural langiuage processing and artificial intelligence (AI). I am an engineer and a Bachelor university student.  
+💻 **Major in computer science (CS)**, especially natural language processing and artificial intelligence (AI). I am an engineer and a Bachelor university student.  
 🏫 **Doshisha Univ** 🇯🇵 | **UH** 🇫🇮  
 🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 <br>
 
@@ -9,7 +9,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ja/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 #### Other assets
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
