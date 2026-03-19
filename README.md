@@ -1,8 +1,9 @@
 ## Yuki Yotsumoto  
 👋 Hi, I’m @YukiYotsu.  
-💻 **Major in computer science (CS)**, especially natural language processing and artificial intelligence (AI). I am an engineer and a Bachelor university student.  
-🏫 **Doshisha Univ** 🇯🇵 | **UH** 🇫🇮  
+💻 **Major in computer science (CS)**, especially natural language processing and artificial intelligence (AI). I am an engineer and a Master university student.  
+🏫 **Doshisha Univ. Graduate School** 🇯🇵 | **UH** 🇫🇮  
 🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 <br>
+🌸 **Head of Team Sakura**, the reunion group of Tobitate 16th members
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -33,7 +34,7 @@ I am a member of the 16th [*Tobitate! Youth Ambassador Program*](https://tobitat
 > **四元　祐貴(日本語版)**  
 > ペンギンをこよなく愛するエンジニアです。  
 > - トビタテ！第16期　新・日本代表プログラム  
-> - 同志社大学　理工学部 // ヘルシンキ大学　理学部　コンピュータサイエンス学科  
+> - 同志社大学院　理工学研究科　情報工学専攻 // ヘルシンキ大学　理学部　コンピュータサイエンス学科  
 
 ### Links
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@42penta)
