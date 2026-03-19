@@ -2,8 +2,9 @@
 👋 Hi, I’m @YukiYotsu.  
 💻 **Major in computer science (CS)**, especially natural language processing and artificial intelligence (AI). I am an engineer and a Master university student.  
 🏫 **Doshisha Univ. Graduate School** 🇯🇵 | **UH** 🇫🇮  
-🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) @Japanese-German Center Berlin🇩🇪 <br>
-🌸 **Head of Team Sakura**, the reunion group of Tobitate 16th members
+🌸 **Head of Team Sakura**, the reunion group of Tobitate 16th members  
+🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) 2025 @Japanese-German Center Berlin🇩🇪 <br>
+
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
