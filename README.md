@@ -1,6 +1,6 @@
 ## Yuki Yotsumoto  
 👋 Hi, I’m @YukiYotsu.  
-💻 **Major in computer science (CS)**, especially natural language processing and artificial intelligence (AI). I am an engineer and a Master university student.  
+💻 **Major in computer science (CS)**, especially natural language processing (NLP) and artificial intelligence (AI). I am an engineer and a Master university student.  
 🏫 **Doshisha Univ. Graduate School** 🇯🇵 | **UH** 🇫🇮  
 🌸 **Head of Team Sakura**, the reunion group of Tobitate 16th members  
 🎈 **Head of Exhibition Manager** on **ShuHaRi**(**守破離**) 2025 @Japanese-German Center Berlin🇩🇪 <br>
