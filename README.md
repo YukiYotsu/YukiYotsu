@@ -22,6 +22,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+### My Current Research
+
+[研究ポートフォリオ_0701.pdf](https://github.com/user-attachments/files/29536311/_0701.pdf)
+
 ### Tobitate! Study Abroad Initiative Program
 Japanese Youth Ambassador Program  
 <img src="https://github.com/user-attachments/assets/cadc84c4-10e7-4ab6-98a8-248f21504f86" width="244px">　  
